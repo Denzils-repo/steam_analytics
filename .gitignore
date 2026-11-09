@@ -1,0 +1,68 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Node.js
+node_modules/
+
+# Office / LibreOffice lock files
+.~lock.*
+~$*
+
+# Antigravity Skills cache & runtime tracking
+.skills-cache/
+.skills-loaded.json
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Course coursework & other lab modules (preserved locally, untracked in steam_analytics)
+programs/2647216_P1.py
+programs/2647216_P2.py
+programs/2647216_P3.py
+programs/2647216_P4.py
+programs/2647216_P5.*
+programs/2647216_PX.*
+programs/main.py
+programs/steam_analytics.py
+programs/general_utils.py
+programs/paths.py
+programs/figures/
+programs/programs/
+dataset/UScereal.csv
+documentation/
+edited docs/
+guide/
+initial_files/
+context/
+PYTHON_MIDTERM_STUDY_GUIDE.pdf
+programs/.streamlit/
